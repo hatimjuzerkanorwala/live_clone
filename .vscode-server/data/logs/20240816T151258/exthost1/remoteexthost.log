@@ -1,0 +1,11 @@
+2024-08-16 15:12:59.610 [info] Extension host with pid 20660 started
+2024-08-16 15:12:59.631 [info] Lock '/home/hatim/.vscode-server/data/User/workspaceStorage/82576030b364d0569e7c0c2cbdb50ad1/vscode.lock': Lock acquired.
+2024-08-16 15:12:59.672 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-16 15:12:59.726 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-16 15:12:59.726 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-16 15:13:00.087 [info] Eager extensions activated
+2024-08-16 15:13:00.088 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-16 15:13:00.091 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-16 15:15:15.149 [info] Extension host terminating: received terminate message from renderer
+2024-08-16 15:15:15.151 [info] Lock '/home/hatim/.vscode-server/data/User/workspaceStorage/82576030b364d0569e7c0c2cbdb50ad1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-08-16 15:15:15.168 [info] Extension host with pid 20660 exiting with code 0
