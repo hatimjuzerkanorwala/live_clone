@@ -3,11 +3,11 @@ services:
   rtmp:
     build: ./rtmp
     ports:
-      - "1936:1936"
+      - "1935:1935"
       - "80:8080"
     container_name: rtmp_server
     volumes:
-      - ./qutbi_data:/tmp/hls
+      - ./data:/tmp/hls
 
   auth:
     build: ./auth
